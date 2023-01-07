@@ -25,7 +25,7 @@ a terminal of your choice and type `npm i` or `yarn`.
 ## Features
 
 Basic scoreboard design
-![Scoreboard](image.png "Example of Scoreboard with 512 players added")
+![Scoreboard](image-colourised.png "Example of Scoreboard with 512 players added")
 
 ## Development Workflow
 
